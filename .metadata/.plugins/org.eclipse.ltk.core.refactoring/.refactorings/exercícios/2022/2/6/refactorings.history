@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;string&apos; from expression &apos;this.nome=nome&apos;&#x0D;&#x0A;- Original project: &apos;exercícios&apos;&#x0D;&#x0A;- Variable name: &apos;string&apos;&#x0D;&#x0A;- Variable expression: &apos;this.nome=nome&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;string&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;oo.composicao{Cliente.java" name="string" replace="true" selection="145 16" stamp="1644009649569" varType="false" version="1.0"/>
+</session>

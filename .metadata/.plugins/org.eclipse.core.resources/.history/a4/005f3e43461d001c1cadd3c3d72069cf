@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Temperatura {
+ public static void main(String[] args) {
+	double fahrenheit = 10;
+	final double ajuste = 32;
+	final double fator = 5.9/9.0;
+	double celsius = 20;
+
+	double celsius = fahrenheit - ajuste * fator;
+	System.out.println("Celsius é =" + celsius);
+}
+}
